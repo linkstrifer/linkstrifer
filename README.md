@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Discord and Twitch bots, also some games**
 
-- 💬 Ask me about **React, CSS, Javascript and web stuff**
+- 💬 Ask me about **Gaming (Specially Xbox), React, CSS, Javascript and web stuff**
 
 - 📫 How to reach me **linkstrifer@outlook.com**
 
