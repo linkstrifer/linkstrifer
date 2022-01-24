@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/linkstrifer" target="blank"><img src="https://img.shields.io/twitter/follow/linkstrifer?logo=twitter&style=for-the-badge" alt="linkstrifer" /></a> </p>
 
-- 🔭 I’m currently working on **Discord and Twitch bots, also some games**
+- 🔭 I’m currently working on **Discord and Twitch bots, Web3 and XR stuff**
 
 - 💬 Ask me about **Gaming (Specially Xbox), React, CSS, Javascript and web stuff**
 
