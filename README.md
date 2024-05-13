@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **linkstrifer@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/linkstrifer/](https://www.linkedin.com/in/linkstrifer/)
-
 - ⚡ Fun fact **I learned how to code by accident**
 
 <h3 align="left">Connect with me:</h3>
